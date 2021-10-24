@@ -3,9 +3,6 @@ function generateMarkdown(response) {
  
 
   
-  
-
-  
 
   #Table of Content
   * [Desscription](#description)
@@ -44,11 +41,7 @@ function generateMarkdown(response) {
   ## Links:
   ${response.links}
  
-
-  
-
-
-  
+ 
 
 `;
 }

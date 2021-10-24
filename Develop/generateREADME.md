@@ -2,9 +2,6 @@
  
 
   
-  
-
-  
 
   #Table of Content
   * [Desscription](#description)
@@ -17,10 +14,10 @@
   * [Links](#links)
 
   ## Description:
-  Dynamically gerate a README.md file by filling out questions.
+  Dynamically gerate a README.md file by filling out questions. 
  
   ## Installation:
-  npm i, fs, MARKDOWN.
+  npm i, fs, markdown
 
   ## Purpose:
   To create a universal template that can be use in any project to create the README.md file professionally.
@@ -38,14 +35,10 @@
   Amar Algu
 
   ## Test:
-  run index.js
+  index.js
 
   ## Links:
   https://github.com/Algex07/Professional-README-Generator
  
-
-  
-
-
-  
+ 
 
