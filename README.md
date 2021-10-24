@@ -1,35 +1,44 @@
 
  
 
-  #title:
-  Generate README.md
+  
+  #Generat README.md
+
+  
 
   ##Table of Content
-  [desscription](##description)
-  [installation](##installation)
-  [purpose](##purpose)
-  [licenses](##licenses)
-  [Github](##Github)
-  [contribution](##contribution)
-  [test](##test)
+  * [Desscription](##description)
+  * [Installation](##installation)
+  * [Purpose](##purpose)
+  * [Licenses](##licenses)
+  * [Github](##github)
+  * [Contribution](##contribution)
+  * [Test](##test)
+  * [Links](##links)
 
-  ##description:
-  Dynamically generate a readme file for any project
+  ## Description:
+  Dynamically create a README.md
  
-  ##installation:
-  npm i, inquirer, fs, markdown
+  ## Installation:
+  npm i
 
-  ##purpose:
-  generate readme easily and professionally
+  ## Purpose:
+  Creating a universal template to generate README.md
 
-  ##licenses:
+  ## Licenses:
   None
 
-  ##Github:
-  Algex07
+  ## Github:
+  https://github.com/Algex07
 
-  ##contribution:
+  ## If any questions connect with me:
+  amar_algu@hotmail.com
+
+  ## Contribution:
   Amar
 
-  ##test:
+  ## Test:
   index.js
+
+  ## Links:
+  https://github.com/Algex07/Professional-README-Generator

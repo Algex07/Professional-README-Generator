@@ -47,20 +47,20 @@ function generateMarkdown(response) {
   return `
  
 
-  #title:
-  ${response.title}
+  
+  #${response.title}
 
   
 
   ##Table of Content
-  * [desscription](##Description)
-  * [installation](##Installation)
-  * [purpose](##Purpose)
-  * [licenses](##Licenses)
-  * [Github](##Github)
-  * [contribution](##Contribution)
-  * [test](##Test)
-  * [links](## Links)
+  * [Desscription](##description)
+  * [Installation](##installation)
+  * [Purpose](##purpose)
+  * [Licenses](##licenses)
+  * [Github](##github)
+  * [Contribution](##contribution)
+  * [Test](##test)
+  * [Links](##links)
 
   ## Description:
   ${response.description}
