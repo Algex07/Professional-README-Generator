@@ -45,11 +45,23 @@ const questions = [
         name: "github",
         message: "What is your Github username?"
     },
+    {
+        Type: "input",
+        name: "email",
+        message: "How to connect with me?"
+
+    },
     {   type : 'input',
         name : 'test',
         message : 'How can this application be tested?',
 
-    }
+    },
+{
+        type: "input",
+        name: "links",
+        message: "Links for your project?",
+            
+}
 ];
 
 
