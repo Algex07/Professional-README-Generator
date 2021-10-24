@@ -1,5 +1,4 @@
-function generateMarkdown(response) {
-  return `# ${response.title}
+# Generate README.md
  
 
   
@@ -18,31 +17,31 @@ function generateMarkdown(response) {
   * [Links](#links)
 
   ## Description:
-  ${response.description}
+  Dynamically gerate a README.md file by filling out questions.
  
   ## Installation:
-  ${response.installation}
+  npm i, fs, MARKDOWN.
 
   ## Purpose:
-  ${response.purpose}
+  To create a universal template that can be use in any project to create the README.md file professionally.
 
   ## Licenses:
-  ${response.licenses}
+  None
 
   ## Github:
-  ${response.github}
+  Algex07
 
   ## If any questions connect with me @:
-  ${response.email}
+  amar_algu@hotmail.com
 
   ## Contribution:
-  ${response.contribution}
+  Amar Algu
 
   ## Test:
-  ${response.test}
+  run index.js
 
   ## Links:
-  ${response.links}
+  https://github.com/Algex07/Professional-README-Generator
  
 
   
@@ -50,7 +49,3 @@ function generateMarkdown(response) {
 
   
 
-`;
-}
-
-module.exports = generateMarkdown;

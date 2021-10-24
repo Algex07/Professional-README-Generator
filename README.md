@@ -6,7 +6,7 @@
 
   
 
-  ##Table of Content
+  #Table of Content
   * [Desscription](#description)
   * [Installation](#installation)
   * [Purpose](#purpose)
@@ -17,28 +17,28 @@
   * [Links](#links)
 
   ## Description:
-  Dynamically generate a readme file
+  Dynamically gerate a README.md file by filling out questions.
  
   ## Installation:
-  npm i
+  npm i, fs, MARKDOWN.
 
   ## Purpose:
-  Create a template to use unversally for generating readme
+  To create a universal template that can be use in any project to create the README.md file professionally.
 
   ## Licenses:
   None
 
   ## Github:
-  https://github.com/Algex07
+  Algex07
 
-  ## If any questions connect with me:
+  ## If any questions connect with me @:
   amar_algu@hotmail.com
 
   ## Contribution:
   Amar Algu
 
   ## Test:
-  index.js
+  run index.js
 
   ## Links:
   https://github.com/Algex07/Professional-README-Generator
