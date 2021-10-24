@@ -1,29 +1,29 @@
-
+# Generate README.md
  
 
   
-  #Generat README.md
+  
 
   
 
   ##Table of Content
-  * [Desscription](##description)
-  * [Installation](##installation)
-  * [Purpose](##purpose)
-  * [Licenses](##licenses)
-  * [Github](##github)
-  * [Contribution](##contribution)
-  * [Test](##test)
-  * [Links](##links)
+  * [Desscription](#description)
+  * [Installation](#installation)
+  * [Purpose](#purpose)
+  * [Licenses](#licenses)
+  * [Github](#github)
+  * [Contribution](#contribution)
+  * [Test](#test)
+  * [Links](#links)
 
   ## Description:
-  Dynamically create a README.md
+  Dynamically generate a readme file
  
   ## Installation:
   npm i
 
   ## Purpose:
-  Creating a universal template to generate README.md
+  Create a template to use unversally for generating readme
 
   ## Licenses:
   None
@@ -35,7 +35,7 @@
   amar_algu@hotmail.com
 
   ## Contribution:
-  Amar
+  Amar Algu
 
   ## Test:
   index.js
