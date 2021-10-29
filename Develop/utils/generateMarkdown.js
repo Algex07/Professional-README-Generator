@@ -27,7 +27,7 @@ function generateMarkdown(response) {
   ${response.licenses}
 
   ## Github:
-  ${response.github}
+  https://github.com/${response.github}
 
   ## If any questions connect with me @:
   ${response.email}
